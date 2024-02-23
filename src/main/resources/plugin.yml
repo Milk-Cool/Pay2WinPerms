@@ -1,0 +1,37 @@
+name: Pay2WinPerms
+api-version: '1.20'
+main: com.milk_cool.pay2winperms.Main
+version: 1.0.0
+author: Milk_Cool
+
+permissions:
+  pay2winperms.place:
+    description: Allows the player to place blocks
+    default: false
+  pay2winperms.break:
+    description: Allows the player to break blocks
+    default: false
+  pay2winperms.furnace:
+    description: Allows the player to use the furnace
+    default: false
+  pay2winperms.craft:
+    description: Allows the player to craft using the crafting table
+    default: false
+  pay2winperms.chest:
+    description: Allows the player to open chests
+    default: false
+  pay2winperms.dish:
+    description: Allows the player to fish
+    default: false
+  pay2winperms.anvil:
+    description: Allows the player to use anvils
+    default: false
+  pay2winperms.enchant:
+    description: Allows the player to use enchanting tables
+    default: false
+  pay2winperms.nether:
+    description: Allows the player to go to hell
+    default: false
+  pay2winperms.end:
+    description: Allows the player to go to The End
+    default: false
