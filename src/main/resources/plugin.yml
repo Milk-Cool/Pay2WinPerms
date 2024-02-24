@@ -20,7 +20,7 @@ permissions:
   pay2winperms.chest:
     description: Allows the player to open chests
     default: false
-  pay2winperms.dish:
+  pay2winperms.fish:
     description: Allows the player to fish
     default: false
   pay2winperms.anvil:
