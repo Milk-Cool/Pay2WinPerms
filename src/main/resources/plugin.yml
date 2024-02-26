@@ -35,3 +35,6 @@ permissions:
   pay2winperms.end:
     description: Allows the player to go to The End
     default: false
+  pay2winperms.doors:
+    description: Allows the player to open doors
+    default: false
